@@ -9,7 +9,7 @@
         <button type="button" class="close" data-dismiss="modal">&times;</button>
       </div>
 
-      <!-- Modal body -->
+      <!-- Modal bodygg -->
       <div class="modal-body">
       	<form method="post" id="form1">
         <div class="form-group">
